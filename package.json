@@ -1,0 +1,26 @@
+{
+  "name": "xdtblog",
+  "version": "1.0.0",
+  "description": "博客系统",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiedanting55/xdtblog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiedanting55/xdtblog/issues"
+  },
+  "homepage": "https://github.com/xiedanting55/xdtblog#readme",
+  "dependencies": {
+    "koa": "^2.13.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
